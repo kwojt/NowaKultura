@@ -8,4 +8,4 @@
 - Światło - Życie
 - Nowy człowiek
 - Nowa wspólnota
-- Nowa kultura |
+- Nowa kultura <!-- .element: class="fragment" -->
