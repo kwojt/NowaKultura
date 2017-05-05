@@ -1,9 +1,11 @@
-#HSLIDE
-# HSLIDE
-# tytuł
+![Drogowskazy](img/drogowskaz.gif)
+# DROGOWSKAZY NOWEGO CZŁOWIEKA
+## Nowa Kultura
 
-Tutaj jakaś przykładowa treść 
+--- 
 
----
-
-Tutaj niby teoretycznie kolejny slajd.
+## Ideał wychowawczy Ruchu Światło Życie
+* Światło - Życie
+* Nowy człowiek
+* Nowa wspólnota
+* Nowa kultura |
