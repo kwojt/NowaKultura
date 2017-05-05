@@ -1,6 +1,6 @@
 ![Drogowskazy](img/drogowskaz.gif)
-## DROGOWSKAZY NOWEGO CZŁOWIEKA
-### Nowa Kultura
+### DROGOWSKAZY NOWEGO CZŁOWIEKA
+#### Nowa Kultura
 
 --- 
 
